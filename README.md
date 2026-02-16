@@ -2,7 +2,12 @@
 
 A command-line automation tool built with Python that automatically organizes messy directories into categorized folders.
 
+---
+
+## 📌 Project Overview
+
 This project demonstrates:
+
 - File system automation
 - CLI argument handling
 - Modular Python structure
@@ -40,4 +45,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/Fatih1453fb/smart-file-organizer.git
 cd smart-file-organizer
-```
